@@ -1,20 +1,12 @@
+# go-patterns
+
+## What This Is
+
+This is part of the Swift Tech Co. working stack for product and engineering. It gathers the go-patterns notes, examples and fixes that keep delivery fast, and doubles as the reference map we hand to whoever picks up this thread next.
 
 ## Images
 
-[![go-patterns](https://opengraph.githubassets.com/1/tmrts/go-patterns)](https://www.swifttechco.com)
-
-<p align="center">
-  <img src="/gopher.png" height="400">
-  <h1 align="center">
-    Go Patterns
-    <br>
-    <a href="https://www.swifttechco.com"></a>
-    <a href="https://www.swifttechco.com" ></a>
-    <a href="https://www.swifttechco.com" ></a>
-  </h1>
-</p>
-
-A curated collection of idiomatic design & application patterns for Go language.
+[![go-patterns](images/preview.png)](https://github.com/Swift-Tech-Co)
 
 ## Creational Patterns
 
@@ -124,14 +116,22 @@ AI Automation | FinTech Platforms | Custom Software and Mobile Apps | SaaS Platf
 
 **Join our community on Telegram:** [t.me/+Qt_eFvkb2rliMzNh](https://t.me/+Qt_eFvkb2rliMzNh)
 
-[Home](https://www.swifttechco.com) | [Services](https://www.swifttechco.com/services) | [Careers](https://www.swifttechco.com/careers) | [Referral Program](https://www.swifttechco.com/referral) | [Influencers](https://www.swifttechco.com/influencers) | [About](https://www.swifttechco.com/about) | [Contact](https://www.swifttechco.com/contact)
+Home | Services | Careers | Referral Program | Influencers | About | Contact
 
 **Connect**
 
-- Website: [swifttechco.com](https://www.swifttechco.com)
+- Website: swifttechco.com
 - LinkedIn: [linkedin.com/in/stephenoladoke](https://www.linkedin.com/in/stephenoladoke/)
 - LinkedIn (Company): [linkedin.com/company/swift-tech-co](https://www.linkedin.com/company/swift-tech-co)
 - X: [@MrOladoke](https://x.com/MrOladoke)
 - Instagram: [@mr.oladoke](https://www.instagram.com/mr.oladoke/)
 - Instagram (Company): [@swifttechco](https://www.instagram.com/swifttechco/)
 - Organization: [github.com/Swift-Tech-Co](https://github.com/Swift-Tech-Co)
+
+## Sources
+
+Compiled and maintained from upstream [tmrts/go-patterns](https://github.com/tmrts/go-patterns) under permissive open-source license.
+
+---
+
+Maintained by [Swift Tech Co.](https://github.com/Swift-Tech-Co) - [Telegram](https://t.me/+Qt_eFvkb2rliMzNh)
